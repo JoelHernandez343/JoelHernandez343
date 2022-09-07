@@ -19,7 +19,7 @@ I love exploring new technologies and creating useful and exciting tools.
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JoelHernandez343/JoelHernandez343/blob/main/.github/images/in-dark.png?raw=true">
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/JoelHernandez343/JoelHernandez343/blob/main/.github/images/in-light.png?raw=true">
-        <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/JoelHernandez343/JoelHernandez343/blob/main/.github/images/in-light.png?raw=true" width="4%">
+        <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/JoelHernandez343/JoelHernandez343/blob/main/.github/images/in-light.png?raw=true" width="3%">
     </picture>
 </a>
 </p>
