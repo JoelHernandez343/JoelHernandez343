@@ -14,7 +14,7 @@ I love exploring new technologies and creating useful and exciting tools.
     </picture>
 </a>
 
-<a href="www.linkedin.com/in/joelhernandez33">
+<a href="https://www.linkedin.com/in/joelhernandez33">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JoelHernandez343/JoelHernandez343/blob/main/.github/images/in-dark.png?raw=true">
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/JoelHernandez343/JoelHernandez343/blob/main/.github/images/in-light.png?raw=true">
