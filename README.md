@@ -6,12 +6,11 @@ I love exploring new technologies and creating useful and exciting tools.
 
 ### :calling: Contact me
 
-<p>
 <a href="mailto:joel.programador@gmail.com">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JoelHernandez343/JoelHernandez343/blob/a9857eb1e7c4c6bb4108d8d4fc0a9d5d2e6df70c/.github/images/email-dark.png?raw=true">
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/JoelHernandez343/JoelHernandez343/blob/main/.github/images/email-light.png?raw=true">
-        <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/JoelHernandez343/JoelHernandez343/blob/main/.github/images/email-light.png?raw=true" width="4%">
+        <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/JoelHernandez343/JoelHernandez343/blob/main/.github/images/email-light.png?raw=true" height="20px" align="left">
     </picture>
 </a>
 
@@ -19,7 +18,6 @@ I love exploring new technologies and creating useful and exciting tools.
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JoelHernandez343/JoelHernandez343/blob/main/.github/images/in-dark.png?raw=true">
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/JoelHernandez343/JoelHernandez343/blob/main/.github/images/in-light.png?raw=true">
-        <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/JoelHernandez343/JoelHernandez343/blob/main/.github/images/in-light.png?raw=true" width="3%">
+        <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/JoelHernandez343/JoelHernandez343/blob/main/.github/images/in-light.png?raw=true" height="20px" align="left">
     </picture>
 </a>
-</p>
