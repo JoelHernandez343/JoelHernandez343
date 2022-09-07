@@ -22,6 +22,8 @@ I love exploring new technologies and creating useful and exciting tools.
     </picture>
 </a>
 
+<br/>
+
 ### Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoelHernandez343)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelHernandez343&show_icons=true&theme=dracula))](https://github.com/anuraghazra/github-readme-stats)
