@@ -4,7 +4,7 @@ I'm Joel from Mexico, I´m a software engineer and developer. This is my public 
 
 I love exploring new technologies and creating useful and exciting tools.
 
-### :calling: Contact me
+### Contact me
 
 <a href="mailto:joel.programador@gmail.com">
     <picture>
@@ -21,3 +21,7 @@ I love exploring new technologies and creating useful and exciting tools.
         <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/JoelHernandez343/JoelHernandez343/blob/main/.github/images/in-light.png?raw=true" height="20px" align="left">
     </picture>
 </a>
+
+### Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoelHernandez343)](https://git.io/streak-stats)
