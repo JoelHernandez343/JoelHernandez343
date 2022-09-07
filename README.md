@@ -26,4 +26,4 @@ I love exploring new technologies and creating useful and exciting tools.
 
 ### Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelHernandez343&show_icons=true&theme=dracula))](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelHernandez343&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
