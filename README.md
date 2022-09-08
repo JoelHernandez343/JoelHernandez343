@@ -1,6 +1,15 @@
+```
+     _          _   _  _                           _
+  _ | |___  ___| | | || |___ _ _ _ _  __ _ _ _  __| |___ ___
+ | || / _ \/ -_) | | __ / -_) '_| ' \/ _` | ' \/ _` / -_)_ /
+  \__/\___/\___|_| |_||_\___|_| |_||_\__,_|_||_\__,_\___/__|
+
+
+```
+
 # Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">
 
-I'm Joel from Mexico, I´m a software engineer and developer. This is my public Github profile where I've been submitted my personal open source projects.
+I'm Joel from Mexico, I´m a software engineer and developer. This is my public Github profile where I've been submitting my personal open source projects.
 
 I love exploring new technologies and creating useful and exciting tools.
 
@@ -26,4 +35,6 @@ I love exploring new technologies and creating useful and exciting tools.
 
 ### Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelHernandez343&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=JoelHernandez343&show_icons=true&theme=dracula"/>
+</p>
