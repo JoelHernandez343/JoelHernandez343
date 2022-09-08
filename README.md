@@ -4,7 +4,6 @@
  | || / _ \/ -_) | | __ / -_) '_| ' \/ _` | ' \/ _` / -_)_ /
   \__/\___/\___|_| |_||_\___|_| |_||_\__,_|_||_\__,_\___/__|
 
-
 ```
 
 # Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">
@@ -33,8 +32,10 @@ I love exploring new technologies and creating useful and exciting tools.
 
 <br/>
 
-### Stats
+### More about me
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JoelHernandez343&show_icons=true&theme=dracula"/>
-</p>
+-   ⚡I Love Javascript
+-   🌱 I'm currently learning at Platzi
+-   💬 God bless you all
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelHernandez343&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
